@@ -36,7 +36,7 @@ Full structural rewrite with more reliable alerting and daily lifecycle manageme
 
 **Added over v1.0:**
 - Heartbeat ping every 15 bars held while in a position
-- Stop loss loosened from 0.7% → 0.5% (more room before cutting losses)
+- Stop loss loosened from 0.7% → 0.5% (cutting losses earlier)
 - Session summary on Ctrl+C still printed to console
 
 ---
