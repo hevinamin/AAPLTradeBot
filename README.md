@@ -35,9 +35,8 @@ Full structural rewrite with more reliable alerting and daily lifecycle manageme
 ### v1.01 — `stockbot_v1.01.py`
 
 **Added over v1.0:**
-- Heartbeat ping every 15 bars held while in a position
-- Stop loss loosened from 0.7% → 0.5% (cutting losses earlier)
-- Session summary on Ctrl+C still printed to console
+- Improved console output (MA short/long added, unrealized P&L display)
+- Stop loss tightened from 0.7% to 0.5%
 
 ---
 
